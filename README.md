@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-<!--
+My name is Choi Jiwoo.
+I've lived in seoul, korea since I was born in 2000.
+
+
 **elaus00/elaus00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
